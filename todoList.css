@@ -33,6 +33,11 @@ h2{
     border-radius: 18px;
    
 }
+.formContainer{
+    margin-top: 3%;
+    margin-left: 2%;
+    display: flex;
+}
 .form_a{
     height: 20px;
     width: 150px   ;
@@ -82,136 +87,10 @@ h2{
    
 }
 
-
-
-.form2{
-    height: 350px;
-    width: 250px   ;
-    margin-top: -31%;
-    margin-left: 450px;
-    background-color:rgba(170, 178, 189, 0.705);
-    opacity: 0.6;
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-
-.form2_a{
-    height: 20px;
-    width: 150px   ;
-    margin-top: -18%;
-    margin-left:25px;
-    background-color:  #D9D9D9;
-    /* opacity: 0.6; */
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form2_b{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 12%;
-    margin-left:32px;
-    background-color: #571313bb;
-    /* opacity: 0.6; */
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form2_c{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 20%;
-    margin-left:32px;
-    background-color:#D9D9D9;
-    opacity: 0.6;
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form2_d{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 12%;
-    margin-left:32px;
-    background-color: #571313bb;
-    opacity: 0.6;
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-
-
-.form3{
-    height: 350px;
-    width: 250px   ;
-    margin-top: -31%;
-    margin-left: 800px;
-    background-color: hsl(215, 13%, 70%);
-    opacity: 0.6;
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form3_a{
-    height: 20px;
-    width: 150px   ;
-    margin-top: -18%;
-    margin-left:25px;
-    background-color: #D9D9D9;
-    /* opacity: 0.6; */
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form3_b{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 12%;
-    margin-left:32px;
-    background-color:  #571313bb;
-    opacity: 0.6;
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form3_c{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 20%;
-    margin-left:32px;
-    background-color: #D9D9D9;
-    /* opacity: 0.6; */
-    /* opacity: 0.6; */
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
-.form3_d{
-    height: 35px;
-    width: 150px   ;
-    margin-top: 12%;
-    margin-left:32px;
-    background-color:  #571313bb;
-    /* opacity: 0.6; */
-    border: none;
-    padding: 20px;
-    border-radius: 18px;
-   
-}
 #edit{
     float: center;
     position: absolute;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 
 
@@ -226,10 +105,7 @@ h2{
     opacity: 0.8;
     
 } 
-.formContainer{
-    margin-top: 5%;
-    margin-left: 7%;
-}
+
 .form_1{
     height: 45%;
     width: 35%;
