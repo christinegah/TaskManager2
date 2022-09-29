@@ -17,8 +17,13 @@ html body{
     margin-top: 10%;
 }
 h2{
-    margin-top: -16%;
+    margin-top: -8%;
     font-size: 30px;
+    margin-left: 10%;
+}
+h3{
+    margin-top: 1%;
+    font-size: 23px;
     margin-left: 10%;
 }
 .form{
@@ -90,7 +95,7 @@ h2{
 #edit{
     float: center;
     position: absolute;
-    margin-left: 10%;
+    margin-left: 9%;
 }
 
 
