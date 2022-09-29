@@ -39,7 +39,7 @@ h3{
    
 }
 .formContainer{
-    margin-top: 3%;
+    margin-top: 2%;
     margin-left: 2%;
     display: flex;
 }
@@ -128,6 +128,13 @@ h3{
     margin-top: -80%;
     margin-left: 60%;
     margin-bottom: 25%;
+}
+.form_d img{
+    width: 30px;
+    height: 36px;
+    margin-top: -60%;
+    margin-left: 83%;
+    margin-bottom: 17%;
 }
 #list1{
     float: center;
