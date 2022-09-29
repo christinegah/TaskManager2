@@ -16,6 +16,20 @@ html body{
     margin-left: 20%;
     margin-top: 10%;
 }
+#user{
+    float: left;
+    margin-left: 0.6%;
+    position: absolute;
+    margin-top: 1%;
+    
+ }
+ #key{
+   float: left;
+   margin-left: 0.6%;
+   position: absolute;
+   margin-top: 1%;
+   
+}
 .form{
     height: 350px;
     width: 350px   ;
@@ -107,6 +121,7 @@ h1.Trea{
           background-color: #D9D9D9;
           border:none;
           font-size: 20px;
+          padding-left: 28px;
           font-style: normal;
         
 

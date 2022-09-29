@@ -97,7 +97,45 @@ h3{
     position: absolute;
     margin-left: 9%;
 }
-
+#edit1{
+    float: center;
+    position: absolute;
+    margin-left: 9%;
+}
+#todo{
+    float: center;
+    position: absolute;
+    margin-left: 6.5%;
+    margin-top: -3.2%;
+}
+#list{
+    float: center;
+    position: absolute;
+    margin-left: 8%;
+    margin-top: -3.2%;
+    font-size: 20px;
+}
+.form_b img{
+    width: 30px;
+    height: 28px;
+    margin-top: -80%;
+    margin-left: 60%;
+    margin-bottom: 25%;
+}
+.form_c img{
+    width: 33px;
+    height: 30px;
+    margin-top: -80%;
+    margin-left: 60%;
+    margin-bottom: 25%;
+}
+#list1{
+    float: center;
+    position: absolute;
+    margin-left: 6.3%;
+    margin-top: -3.5%;
+   font-size: 20px;
+}
 
 .head{
     background-color: #C7EEF6;
