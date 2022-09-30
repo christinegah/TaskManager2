@@ -36,12 +36,14 @@ h3{
     border: none;
     padding: 20px;
     border-radius: 18px;
+    
    
 }
 .formContainer{
     margin-top: 2%;
     margin-left: 2%;
-    display: flex;
+   display: flex;
+   
 }
 .form_a{
     height: 20px;

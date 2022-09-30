@@ -3,7 +3,7 @@
     background-position: 50% 50%;
     background-size: cover;
      /* width: 1300px; */
-    height: 110vh;
+    height: 100vh;
     margin-top: 1%;
     
 }
@@ -19,7 +19,7 @@ html body{
 .form{
     height: 300px;
     width: 300px   ;
-    margin-top: 4%;
+    margin-top: -5%;
     margin-left: 400px;
     background-color: #cfc6c6b0;
     /* opacity: 0.6; */
@@ -44,13 +44,25 @@ html body{
     margin-left: 42%;
 }
 .form_1{
-    height: 45%;
+    height: 49%;
     width: 35%;
     background-color: #cfc6c6bb;
     margin-top: -26%;
     margin-left: 2%;
 }
-
+marquee{
+    color: black;
+    font-size: 20px;
+    margin-bottom: 15%;
+    margin-top: -1%;
+}
+#list{
+    float: center;
+    position: absolute;
+    margin-left: -1%;
+    margin-top: -0.2%;
+    font-size: 20px;
+}
 ul{
     list-style: none;
     display: flex;
@@ -155,6 +167,7 @@ h1.Trea{
     text-decoration: none;
     color: black;
 }
+
   button.SignUp{
     padding: 8px;
     margin-right: 5%;
@@ -175,6 +188,10 @@ h1.Trea{
    border-radius: 10px;
    margin-top: -8%;
   }
+  button a.JoinUs{
+    text-decoration: none;
+    color: black;
+  }
 div.more{
     padding: 16px;
     margin-left: 65px;
@@ -191,10 +208,10 @@ div.more{
 
 .footer{
     background-color:  #C7EEF6;
-    height: 135px;
+    height: 120px;
     
     margin-left: 0%;
-    margin-top: -10%;
+    margin-top: -8%;
     display: flex;
     text-decoration: none;
     opacity: 0.8;
